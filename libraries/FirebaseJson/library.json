@@ -1,0 +1,12 @@
+{
+    "name": "FirebaseJson",
+    "keywords": "json, parse, rest, http",
+    "description": "The easiest Arduino library JSON parser, builder and editor for ESP8266, ESP32, Teensy 3.x, Teensy 4.x and others MCUs.",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/mobizt/FirebaseJson"
+    },
+    "frameworks": "arduino",
+    "platforms": ["espressif8266", "espressif32","teensy", "atmelsam","ststm32","atmelavr","atmelmegaavr","rp2040"],
+    "version": "3.0.9"
+}

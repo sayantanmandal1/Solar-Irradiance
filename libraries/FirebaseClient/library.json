@@ -1,0 +1,16 @@
+{
+  "name": "FirebaseClient",
+  "version": "1.4.7",
+  "keywords": "communication, REST, esp32, esp8266, arduino",
+  "description": "Async Firebase Client library for Arduino.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mobizt/FirebaseClient.git"
+  },
+  "authors": [{
+    "name": "Mobizt",
+    "email": "k_suwatchai@hotmail.com"
+  }],
+  "frameworks": "arduino",
+  "platforms": "espressif32, espressif8266, atmelsam, rp2040, ststm32, teensy, giga, opta, renesas-ra"
+}
