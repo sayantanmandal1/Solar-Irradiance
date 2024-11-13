@@ -35,17 +35,23 @@ Technologies Used
 Hardware: Light Dependent Resistors (LDRs), microcontroller (e.g., Arduino or Raspberry Pi)
 Machine Learning Libraries: Scikit-Learn, TensorFlow/Keras (for neural network models)
 Programming Languages: Python (data processing, model training), C++ or Python (for microcontroller integration)
+
+
 Installation
+
+
 Clone this repository:
 
-bash
-Copy code
-git clone https://github.com/yourusername/solar-irradiance-estimation.git
+
+git clone https://github.com/sayantanmandal1/solar-irradiance-estimation.git
+
+
 Install the required Python libraries:
 
-bash
-Copy code
+
 pip install -r requirements.txt
+
+
 Connect your LDR sensors and microcontroller as per the instructions in hardware_setup.md.
 
 Run the data collection script to gather new data from your sensors.
